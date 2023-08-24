@@ -1,0 +1,37 @@
+export default {
+   login: 'badon',//'john-smilga'
+  id: 42133389,
+  node_id: 'MDQ6VXNlcjQyMTMzMzg5',
+  avatar_url: 'https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/325919261_910630533456179_6203868588824602015_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeG6DUWuxuuzPykmrY4lFynbFEHt0v6D2T8UQe3S_oPZP-F43XYdViGsJRZte8c8LUHBo09Y-qXyUQqZ7ECfqOm8&_nc_ohc=9Myt3tmC-_IAX9NKu-8&_nc_ht=scontent.fdac138-2.fna&oh=00_AfA3ThvEnkFAklws8c9mh_o2tgB77Mi4hJQKu8L9LAeMRg&oe=64DFA810',
+  gravatar_id: '',
+  url: 'https://api.github.com/users/john-smilga',
+  html_url: 'https://github.com/mahfujulhoque12',
+  followers_url: 'https://api.github.com/users/john-smilga/followers',
+  following_url:
+    'https://api.github.com/users/john-smilga/following{/other_user}',
+  gists_url: 'https://api.github.com/users/john-smilga/gists{/gist_id}',
+  starred_url:
+    'https://api.github.com/users/john-smilga/starred{/owner}{/repo}',
+  subscriptions_url: 'https://api.github.com/users/john-smilga/subscriptions',
+  organizations_url: 'https://api.github.com/users/john-smilga/orgs',
+  repos_url: 'https://api.github.com/users/john-smilga/repos',
+  events_url: 'https://api.github.com/users/john-smilga/events{/privacy}',
+  received_events_url:
+    'https://api.github.com/users/john-smilga/received_events',
+  type: 'User',
+  site_admin: false,
+  name: 'Md Mahfujul Hoque',
+  company: 'Badon.com',
+  blog: 'www.badon.com',
+  location: 'Dhaka',
+  email: 'mdmahfujulhoque123@gmail.com',
+  hireable: null,
+  bio: 'Learing code',
+  twitter_username: 'badon',
+  public_repos: 152,
+  public_gists: 15,
+  followers: 1495,
+  following: 50,
+  created_at: '2018-08-06T06:48:23Z',
+  updated_at: '2020-07-08T05:01:32Z',
+};
